@@ -733,6 +733,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ImportPacks\BayatGames\Free Platform Game Assets\Readme.txt" />
+    <None Include="Assets\ImportPacks\Medieval Pack\pixel_snapping_README.txt" />
     <None Include="Packages\com.unity.cinemachine\Editor\Resources\CMWaveform.compute" />
     <None Include="Packages\com.unity.cinemachine\Editor\Resources\CMWaveform.shader" />
     <None Include="Packages\com.unity.cinemachine\Editor\Resources\StdLib.hlsl" />
