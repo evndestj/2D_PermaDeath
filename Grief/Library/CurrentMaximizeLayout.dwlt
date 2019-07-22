@@ -26,7 +26,7 @@ MonoBehaviour:
   m_MinSize: {x: 957, y: 498}
   m_MaxSize: {x: 22012, y: 14048}
   vertical: 0
-  controlID: 24465
+  controlID: 32734
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,9 +167,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 81.299774, y: -18.329254, z: -18.221416}
+    m_Target: {x: 146.16794, y: -1.210603, z: 3.280827}
     speed: 2
-    m_Value: {x: 81.299774, y: -18.329254, z: -18.221416}
+    m_Value: {x: 146.16794, y: -1.210603, z: 3.280827}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -201,9 +201,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 186.18701
+    m_Target: 23.957354
     speed: 2
-    m_Value: 186.18701
+    m_Value: 23.957354
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -236,9 +236,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 348
+    x: 0
     y: 72
-    width: 533
+    width: 613
     height: 752
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &6
@@ -321,7 +321,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 24424
+  controlID: 32684
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -380,7 +380,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2cadffff68e5fffffaeaffffaef1ffffeef2ffffd2fbffff423b0000463b0000703b0000863b0000
+      m_ExpandedIDs: 8214feffbc4bfeff565afeff225bfeffb263feff2cadffff68e5fffffaeaffffaef1ffffeef2ffffd2fbffff423b0000463b0000863b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -425,10 +425,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 825
-    y: 100
-    width: 259
-    height: 368
+    x: 927.2
+    y: 72
+    width: 230
+    height: 437
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &12
 MonoBehaviour:
@@ -493,8 +493,7 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/ImportPacks/BayatGames/Free Platform Game Assets/Background/png/1920x1080/Background
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -506,7 +505,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ee240000
     m_LastClickedID: 9454
-    m_ExpandedIDs: ffffffff000000007c270000a02700007e2a0000e02a0000d82c00000e2d0000402d0000782d00007c2d0000b22f00004e310000ba310000d0320000ec320000fe32000022330000a23300009e360000cc360000d2360000403700008e370000c2370000943900009c390000343a0000865300008c530000
+    m_ExpandedIDs: ffffffff000000007c270000a0270000202a0000442a00007e2a0000d82c00000e2d0000782d0000b22f00004e310000ba3100007a320000d0320000ec320000f432000022330000a2330000503500009e360000cc36000040370000c2370000d0370000ce380000943900009c390000343a0000865300008c530000a6530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -531,10 +530,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 343b0000
+    scrollPos: {x: 0, y: 467}
+    m_SelectedIDs: 863b0000
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000007c270000a02700007e2a0000e02a0000d82c00000e2d0000402d0000782d00007c2d0000b22f00004e310000ba310000d0320000ec320000fe32000022330000a23300009e360000cc360000d2360000403700008e370000c2370000943900009c390000343a0000865300008c530000
+    m_ExpandedIDs: ffffffff000000007c270000a0270000202a0000442a00007e2a0000d82c00000e2d0000782d0000b22f00004e310000ba3100007a320000d0320000ec320000f432000022330000a2330000503500009e360000cc36000040370000c2370000d0370000ce380000943900009c390000343a0000865300008c530000a6530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -559,8 +558,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 343b0000
-    m_LastClickedInstanceID: 15156
+    m_SelectedInstanceIDs: 863b0000
+    m_LastClickedInstanceID: 15238
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:

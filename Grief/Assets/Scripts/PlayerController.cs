@@ -66,6 +66,14 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag == "DoubleJump")
+            Destroy(other.gameObject);
+            extraJumpsValue = 1;
+    }
+
+
     void Flip()
     {
         facingRight = !facingRight;
